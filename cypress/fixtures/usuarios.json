@@ -1,0 +1,34 @@
+{
+  "usuarios": [
+    {
+      "name": "Tony Stark",
+      "email": "tony.stark@gmail.com",
+      "password": "Senha123"
+    },
+    {
+      "name": "Steve Rogers",
+      "email": "steve.rogers@gmail.com",
+      "password": "Senha123"
+    },
+    {
+      "name": "Natasha Romanoff",
+      "email": "natasha.romanoff@gmail.com",
+      "password": "Senha123"
+    },
+    {
+      "name": "Bruce Banner",
+      "email": "bruce.banner@gmail.com",
+      "password": "Senha123"
+    },
+    {
+      "name": "Thor Odinson",
+      "email": "thor.odinson@gmail.com",
+      "password": "Senha123"
+    },
+    {
+      "name": "Clint Barton",
+      "email": "clint.barton@gmail.com",
+      "password": "Senha123"
+    }
+  ]
+}
